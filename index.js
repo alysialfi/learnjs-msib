@@ -1,4 +1,4 @@
-//Dhimas
+//Dhimas tyas
 const dollar1 = 10
 const dollar2 = 2
 const isMember = true
