@@ -1,5 +1,5 @@
-const dollar1 = 30
-const dollar2 = 10
+const dollar1 = 20
+const dollar2 = 5
 const isMember = true
 const money = null
 
