@@ -8,6 +8,8 @@ if (isMember) {
 } else {
     money = dollar2
 }
+
+
 function testing(){
     return
 }
